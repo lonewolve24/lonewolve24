@@ -15,7 +15,7 @@ Welcome to my Github page! I am Abdul Muizz IKumapayi and I am currently finishi
 - Finish my Information System Bachelors  degree 
 - Taking online courses about Data analysis 
 - Tutoring Python to newbies
-- Doing the HNG9 internship 
+- HNGi9 Finalist
 
 ## 👯 Communities
 * Google Developers  Student Club UTG (lead Alumni)
