@@ -1,6 +1,4 @@
-Here's the complete markdown for your README:
 
-```markdown
 # Abdul Muizz Ikumapayi
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/lone-wolve)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-muizz-ikumapayi-728a1b187/)
@@ -13,15 +11,13 @@ Backend Developer with 3 years of professional experience creating efficient, sc
 - 🌍 Co-organizer at Google Developer Group Banjul
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lone-wolve&layout=compact&theme=dark" width="45%" />
 ## 🛠️ Tech Stack
-```python
 class AbdulMuizz:
     def __init__(self):
         self.languages = ["Python", "Java", "SQL", "HTML", "CSS"]
         self.frameworks = ["Django", "Bootstrap"]
         self.databases = ["MySQL", "SQLite"]
         self.tools = ["Git", "Linux", "VS Code", "RESTful APIs"]
-        self.interests = ["Backend Development", "Data Science", "Problem Solving"]
-```
+        self.interests = ["Backend Development", "Problem Solvi"]
 
 ## 🌱 Current Focus
 
