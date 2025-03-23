@@ -17,7 +17,7 @@ class AbdulMuizz:
         self.frameworks = ["Django", "Bootstrap"]
         self.databases = ["MySQL", "SQLite"]
         self.tools = ["Git", "Linux", "VS Code", "RESTful APIs"]
-        self.interests = ["Backend Development", "Problem Solvi"]
+        self.interests = ["Backend Development", "Problem Solving"]
 
 ## 🌱 Current Focus
 
@@ -61,6 +61,3 @@ I'm always interested in collaborating on projects or discussing tech innovation
 ---
 
 ⭐️ From [Abdul Muizz Ikumapayi](https://github.com/lone-wolve)
-```
-
-Note: When you paste this into your GitHub README.md, make sure to keep the triple backticks for the Python code block. This will ensure your Python class is properly formatted as code in the final display.
