@@ -10,6 +10,7 @@ Backend Developer with 3 years of professional experience creating efficient, sc
 - 💬 Ask me about Python, Django, and backend architecture
 - 🌍 Co-organizer at Google Developer Group Banjul
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lone-wolve&layout=compact&theme=dark" width="45%" />
+
 ## 🛠️ Tech Stack
 class AbdulMuizz:
     def __init__(self):
